@@ -1,46 +1,44 @@
-# 👋 Olá, eu sou Rafael
+# 👋 Hi, I'm Rafael
 
-🧠 Atualmente a estudar para futuramente chegar até Integration Engineer  
+🧠 Currently studying to become a future **Integration Engineer**  
 
-No momento sou MuleSoft Developer LV1 e Estudante de Engenharia Informática  
+At the moment I'm a **MuleSoft Developer LV1** and a **Computer Engineering Student**  
 
-🚀 Objetivo: Tornar‑me um **Integration Engineer**, e conseguir dominar:
-- MuleSoft 
-- Cloud integrations (AWS, Azure)  
-- APIs e Microservices  
-- Automação devops e CI/CD  
+🚀 Goal: Become a **full Integration Engineer** and master:
+- MuleSoft  
+- Cloud integrations (AWS · Azure)  
+- APIs & Microservices  
+- DevOps automation & CI/CD  
 
 ---
 
-## 📊 Estado Atual
-| 🏫 Empresa/Estudo | 🧱 Stack principal | 🎯 Meta curto prazo |
+## 📊 Current Status
+| 🏫 Company / Study | 🧱 Main Stack | 🎯 Short‑term Goal |
 |:--|:--|:--|
-| Deloitte / IPCA | MuleSoft · Concourse · Salesforce | Construir APIs do zero + MuleSoft LV2 |
+| Deloitte / IPCA | MuleSoft · Concourse · Salesforce | Build APIs from scratch + MuleSoft LV2 |
 
 ---
 
-## 🧩 Objetivos a curto prazo
+## 🧩 Short‑Term Objectives
  
-- Obter certificaçao de fundamentos do Github (A trabalhar atualmente nesta parte)
-- Aprender mais sobre o docker
-- Estudar DevOps (com AWS e Jenkins)  
-
+- 🏗️ Obtain GitHub Foundations Certification (currently working on it)  
+- 🐳 Learn Docker fundamentals  
+- ⚙️ Study DevOps concepts (AWS + Jenkins)  
 
 ---
 
-
-## 📦 Projetos em andamento
-| Projeto | Descrição | Status |
+## 📦 Projects in Progress
+| Project | Description | Status |
 |:--|:--|:--|
-| **TaskFlow‑API** | API de Gestão de Tarefas em MuleSoft + DB | 🚧 Em progresso |
-| **CloudBridge** | Integração entre Salesforce e AWS via Process API | 🧩 A planear |
-| **Pipeline Labs** | Laboratório de CI/CD com deploy automático Mule | 💡 A pensar ainda no tema |
+| **TaskFlow‑API** | Task Management API built with MuleSoft + DB | 🚧 In progress |
+| **CloudBridge** | Integration between Salesforce and AWS via Process API | 🧩 Planning stage |
+| **Pipeline Labs** | CI/CD lab with automated deployment for Mule projects | 💡 Idea stage |
 
 ---
 
-## 📈 Objetivos 2025-2026
-- ✅ Certificação **MuleSoft Developer LV2**  
-- ☁️ Obter **AWS Cloud Practitioner**  
-- 📦 Lançar Portfólio completo de APIs no GitHub  
+## 📈 Goals for 2025 – 2026
+- ✅ Earn **MuleSoft Developer LV2 Certification**  
+- ☁️ Earn **AWS Cloud Practitioner Certification**  
+- 📦 Release a complete API Integration Portfolio on GitHub  
 
-
+---
