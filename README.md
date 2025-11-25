@@ -15,7 +15,7 @@ Goal: Become a **full Integration Engineer** and master:
 ## 📊 Current Status
 |  Company / Study |  Main Stack |  Short‑term Goal |
 |:--|:--|:--|
-| Deloitte / IPCA | MuleSoft · Concourse · Salesforce | Build APIs from scratch + MuleSoft LV2 |
+| Deloitte / IPCA | MuleSoft · Concourse · Salesforce | MuleSoft Developer LV2 Cert |
 
 ---
 
