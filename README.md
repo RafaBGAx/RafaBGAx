@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Rafael+;Backend+Software+Developer+🚀;Integration+Specialist+(MuleSoft)+🛠️;Building+Scalable+Node.js+Architectures+⚡&font=Fira+Code&center=true&width=580&height=60&color=38bdf8&vCenter=true&pause=1000&size=28" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Rafael+👋;Backend+Software+Developer+🚀;Integration+Specialist+(MuleSoft)+🛠️;Building+Scalable+Node.js+Architectures+⚡&font=Fira+Code&center=true&width=580&height=60&color=38bdf8&vCenter=true&pause=1000&size=28" alt="Typing SVG">
   </a>
 
   <h3>🚀 Backend Software Developer & Integration Specialist</h3>
