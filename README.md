@@ -45,18 +45,10 @@
 
 ### 💡 What I'm Working On
 
-#### 🏗️ **TaskFlow API (Migration Project)**
-*A strategic initiative to re-engineer a standard Task Management System using pure Backend principles.*
-* **Objective:** Migrate logic from a low-code environment to a robust **Node.js/Express** architecture.
-* **Key Engineering Concepts:**
-  * **Security:** Runtime Secret Injection (12-Factor App methodology) to avoid hardcoded credentials.
-  * **Database:** Dockerized **PostgreSQL** integration.
-
 #### 🏢 **Enterprise Integration (Professional Experience)**
 *Working on high-availability integration solutions for large-scale clients.*
 * **Scope:** Designing and maintaining RESTful APIs (System, Process, and Experience layers).
 * **Focus:** Secure data transmission, API governance, and CI/CD pipeline management using Concourse and Vault.
-
 ---
 
 ### 📈 Learning Roadmap (2025)
